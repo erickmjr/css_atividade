@@ -45,6 +45,7 @@ header li a{
 .articles article img{
     /*height: 180px;*/
     width: 100%;
+    border: 1px solid black;
 }
 
 .articles article {
@@ -84,7 +85,7 @@ section h2, .articles article{
     font-size: 24px;
 }
 
-section h2{
+h2{
     font-size: 32px;
 }
 
@@ -98,4 +99,12 @@ section h2{
 
 #economy{
     background-color: rgba(255, 255, 10, 0.426);
+}
+
+#entertainment {
+    background-color: rgba(157, 13, 13, 0.619);
+}
+
+#tecnology{
+    background-color: rgba(29, 29, 176, 0.792);
 }
